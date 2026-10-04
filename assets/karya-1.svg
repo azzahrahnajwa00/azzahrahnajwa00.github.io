@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="sky1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2b1b52"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sky1)"/>
+  <circle cx="620" cy="140" r="70" fill="#fca5a5" opacity="0.85"/>
+  <g fill="#ffffff">
+    <circle cx="90" cy="80" r="3"/><circle cx="200" cy="160" r="2"/><circle cx="330" cy="70" r="4"/>
+    <circle cx="470" cy="210" r="2.5"/><circle cx="140" cy="300" r="3"/><circle cx="700" cy="330" r="2"/>
+    <circle cx="560" cy="420" r="3"/><circle cx="250" cy="470" r="2"/><circle cx="60" cy="180" r="2.5"/>
+  </g>
+  <path d="M0 470 Q200 380 400 460 T800 430 V600 H0 Z" fill="#3b1f6e" opacity="0.85"/>
+  <path d="M0 520 Q220 450 430 520 T800 500 V600 H0 Z" fill="#22123f"/>
+  <text x="40" y="560" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff" opacity="0.75">Galaksi Ungu</text>
+</svg>

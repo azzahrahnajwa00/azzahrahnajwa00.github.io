@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="480" height="480" role="img" aria-label="Foto profil Najwa Az Zahrah (placeholder)">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="55%" stop-color="#d946ef"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="480" height="480" fill="url(#bg)"/>
+  <rect width="480" height="480" fill="url(#glow)"/>
+
+  <!-- ornamen lingkaran -->
+  <circle cx="90" cy="90" r="60" fill="#ffffff" opacity="0.12"/>
+  <circle cx="400" cy="120" r="34" fill="#ffffff" opacity="0.16"/>
+  <circle cx="380" cy="400" r="70" fill="#ffffff" opacity="0.10"/>
+
+  <!-- siluet sederhana (ilustrasi) -->
+  <circle cx="240" cy="200" r="86" fill="#ffffff" opacity="0.92"/>
+  <path d="M120 480c0-92 54-150 120-150s120 58 120 150z" fill="#ffffff" opacity="0.92"/>
+
+  <text x="240" y="228" font-family="'Segoe UI', Arial, sans-serif" font-size="88" font-weight="800"
+        text-anchor="middle" fill="url(#bg)">NZ</text>
+</svg>

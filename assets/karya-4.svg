@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#0f172a"/>
+  <g transform="translate(400 300)" fill="none" stroke="#22d3ee" stroke-width="6" opacity="0.9">
+    <ellipse rx="60" ry="160" transform="rotate(0)"/>
+    <ellipse rx="60" ry="160" transform="rotate(45)"/>
+    <ellipse rx="60" ry="160" transform="rotate(90)"/>
+    <ellipse rx="60" ry="160" transform="rotate(135)"/>
+  </g>
+  <circle cx="400" cy="300" r="46" fill="#f472b6"/>
+  <circle cx="400" cy="300" r="46" fill="#a855f7" opacity="0.4"/>
+  <circle cx="400" cy="300" r="14" fill="#fef08a"/>
+  <text x="40" y="560" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#22d3ee" opacity="0.85">Bunga Neon</text>
+</svg>
